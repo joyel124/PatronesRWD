@@ -50,3 +50,12 @@ p {
 
 
 /** CODIGO AQUI **/
+
+@media (min-width: 480px){
+    .column-drop-css{
+        display: grid;
+    }
+}
+@media (min-width: 768px){
+    
+}
